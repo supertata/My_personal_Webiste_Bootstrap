@@ -8,6 +8,15 @@
 
 /* Home - Testimonial Section */
 
+#logo {
+    font-family: 'Indie Flower', cursive;
+    padding-left: 4%;
+}
+
+.nav-items-color {
+    color: bisque;
+}
+
 .skills {
     padding: 8% 10%;
     text-align: center;
@@ -41,7 +50,7 @@ h2 {
 
 .container-fluid {
     background-color: pink;
-    padding: 7% 15%;
+    padding: 3% 15%;
 }
 
 #skills {
