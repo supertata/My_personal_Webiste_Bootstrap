@@ -4,6 +4,30 @@
 
 .container-fluid {
     background-color: pink;
-    padding: 3% 15%;
+    padding: 7% 15%;
 }
 
+#skills {
+    background-color: blanchedalmond;
+}
+
+/* Testimonial Section */
+
+#testimonials {
+    background-color: lightblue;
+    padding: 7% 15%;
+    text-align: center;
+}
+
+.testimonial-image {
+    width: 10%;
+    border-radius: 100%;
+}
+
+img {
+    margin: 5%;
+}
+
+h2 {
+    text-align: center;
+}
