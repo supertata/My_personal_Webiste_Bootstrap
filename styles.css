@@ -14,7 +14,7 @@
 }
 
 .nav-items-color {
-    color: bisque;
+    color: be ;
 }
 
 .skills {
@@ -48,6 +48,14 @@ h2 {
 
 /* Resume */
 
+.resume-section {
+    padding: 5% 8%;
+}
+
+.grid-box {
+    padding: 5px;
+}
+
 .container-fluid {
     background-color: pink;
     padding: 3% 15%;
@@ -55,6 +63,30 @@ h2 {
 
 #skills {
     background-color: blanchedalmond;
+}
+
+/* h2 {
+    padding: 5% 40% 0 0;
+    
+  } */
+
+h3 {
+    padding: 3% 0;
+  }
+
+p {
+    
+    text-align: justify;
+    text-justify: inter-word;
+    padding: 5% 5% 5% 0;
+    margin: 10% 15% 5% 0;
+}
+
+hr {
+    width: 80%;
+    margin-left: 0;
+    
+    padding-bottom: 1rem;
 }
 
 /* Portfolio - Projects Grid */
