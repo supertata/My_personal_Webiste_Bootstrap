@@ -1,21 +1,26 @@
+
+/* Title section */
+
 #title {
     background-color: pink;
+    height: 600px; 
 }
 
-.container-fluid {
-    background-color: pink;
-    padding: 7% 15%;
+/* Home - Testimonial Section */
+
+.skills {
+    padding: 8% 10%;
+    text-align: center;
 }
 
-#skills {
-    background-color: blanchedalmond;
+.skills-image {
+ padding-left: 40%;
+ padding-bottom: 5%;
 }
-
-/* Testimonial Section */
 
 #testimonials {
     background-color: lightblue;
-    padding: 7% 15%;
+    padding: 10% 15%;
     text-align: center;
 }
 
@@ -30,4 +35,21 @@ img {
 
 h2 {
     text-align: center;
+}
+
+/* Resume */
+
+.container-fluid {
+    background-color: pink;
+    padding: 7% 15%;
+}
+
+#skills {
+    background-color: blanchedalmond;
+}
+
+/* Portfolio - Projects Grid */
+
+.portfolio-image {
+    width: 90%;
 }
