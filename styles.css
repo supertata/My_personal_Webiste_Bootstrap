@@ -1,10 +1,27 @@
 
 /* Title section */
 
-#title {
-    background-color: pink;
+/*#title {
     height: 600px; 
+    background-color: #b7472a;
 }
+*/
+
+.container-fluid {
+    height: 600px; 
+    background-color: #b7472a;
+    padding: 3% 15%;
+} 
+
+h1 {
+    color: #fff2e5;
+}
+
+.tagline {
+    margin-left: 15%;
+    padding-top: 15%;
+}
+
 
 /* Home - Testimonial Section */
 
@@ -56,19 +73,14 @@ h2 {
     padding: 5px;
 }
 
-.container-fluid {
-    background-color: pink;
-    padding: 3% 15%;
-}
-
 #skills {
     background-color: blanchedalmond;
 }
 
-/* h2 {
-    padding: 5% 40% 0 0;
-    
-  } */
+h2 {
+    padding: 5% 20% 0 ;
+    margin-left: auto;
+  }
 
 h3 {
     padding: 3% 0;
