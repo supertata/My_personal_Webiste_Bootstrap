@@ -1,108 +1,102 @@
-
-/* Title section */
-
-/*#title {
-    height: 600px; 
-    background-color: #b7472a;
+body {
+  margin: 30px;
 }
-*/
 
 .container-fluid {
-    height: 600px; 
-    background-color: #b7472a;
-    padding: 3% 15%;
-} 
+  height: 600px;
+  background-color: #b7472a;
+  padding: 3% 15%;
+}
 
 h1 {
-    color: #fff2e5;
+  color: #fff2e5;
+  padding-bottom: 5%;
 }
 
 .tagline {
-    margin-left: 15%;
-    padding-top: 15%;
+  margin-left: 15%;
+  padding-top: 15%;
 }
-
 
 /* Home - Testimonial Section */
 
 #logo {
-    font-family: 'Indie Flower', cursive;
-    padding-left: 4%;
+  font-family: "Indie Flower", cursive;
+  padding-left: 4%;
 }
 
 .nav-items-color {
-    color: be ;
+  color: be;
 }
 
 .skills {
-    padding: 8% 10%;
-    text-align: center;
+  padding: 8% 10%;
+  text-align: center;
 }
 
 .skills-image {
- padding-left: 40%;
- padding-bottom: 5%;
+  padding-left: 40%;
+  padding-bottom: 5%;
 }
 
 #testimonials {
-    background-color: lightblue;
-    padding: 10% 15%;
-    text-align: center;
+  background-color: lightblue;
+  padding: 10% 15%;
+  text-align: center;
 }
 
 .testimonial-image {
-    width: 10%;
-    border-radius: 100%;
+  width: 10%;
+  border-radius: 100%;
 }
 
 img {
-    margin: 5%;
+  margin: 5%;
 }
 
 h2 {
-    text-align: center;
+  text-align: center;
 }
 
 /* Resume */
 
 .resume-section {
-    padding: 5% 8%;
+  padding: 5% 8%;
 }
 
 .grid-box {
-    padding: 5px;
+  padding: 5px;
 }
 
 #skills {
-    background-color: blanchedalmond;
+  background-color: blanchedalmond;
 }
 
 h2 {
-    padding: 5% 20% 0 ;
-    margin-left: auto;
-  }
+  padding: 5% 20% 0;
+  margin-left: auto;
+}
 
 h3 {
-    padding: 3% 0;
-  }
+  padding: 3% 0;
+}
 
 p {
-    
-    text-align: justify;
-    text-justify: inter-word;
-    padding: 5% 5% 5% 0;
-    margin: 10% 15% 5% 0;
+  text-align: justify;
+  text-justify: inter-word;
+  padding: 5% 5% 5% 0;
+  margin: 10% 15% 5% 0;
 }
 
 hr {
-    width: 80%;
-    margin-left: 0;
-    
-    padding-bottom: 1rem;
+  width: 80%;
+  margin-left: 0;
+
+  padding-bottom: 1rem;
 }
 
 /* Portfolio - Projects Grid */
 
 .portfolio-image {
-    width: 90%;
+  width: 90%;
 }
